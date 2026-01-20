@@ -4,7 +4,7 @@ Welcome to my academic portfolio for Essential Tooling for Programmers - CEP146N
  
 ## About Me
 - Name: Moorsalin Hossain
-- Program:  Essential Tooling for Programmers - CEP146NDD
+- Program:  Computer Programming and Analysis
 - Year: Winter 2026
 - Favorite Programming Language: C
  
